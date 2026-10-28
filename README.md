@@ -1,32 +1,41 @@
-# 🌊 Salvatore La Rosa
+# Salvatore La Rosa
 
- I'm currently a computer science student at the University of Turin
+**Junior Software Developer · Backend, Full-Stack and Mobile**
 
----
+MSc in Computer Science and Technologies (Networks and Computer Systems), University of Turin, October 2026.
+Based in the province of Agrigento (Sicily), Italy. **Available immediately** · open to fully remote roles in Italy · hybrid in Sicily.
 
-### 💻 Languages and Tools
+I turn business requirements into data models and backend architectures. At FreeLoop, a circular economy startup, I designed from scratch the data schema (Prisma) and backend architecture of a platform for refurbished goods with CO₂ credit tracking. That work is private, so there is no public code; it is also the subject of my master's thesis. I also build native Android apps and have worked in a team on a microservices system.
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg"/>
-<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
-<img align="left" alt="VueJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-<img align="left" alt="Php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+## Selected projects
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Salvatore-LaRosa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Salvatore-LaRosa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvatore-LaRosa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**[AdottaTO](https://github.com/StefanoAtzeni2001/adottaTO)**: microservices platform for animal adoption (university team project, team of three).
+Six services with Spring Boot, PostgreSQL, RabbitMQ, Docker and Kubernetes. I wrote 111 of 174 commits, over 90% of the frontend (Next.js 15, React 19, TypeScript, Tailwind CSS) and the authentication service (JWT, Google OAuth 2.0).
+[My commits](https://github.com/StefanoAtzeni2001/adottaTO/commits?author=Salvatore-LaRosa)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Salvatore-LaRosa&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+**[ForYou](https://github.com/Salvatore-LaRosa/ForYou2)**: native Android app for medication management (individual project).
+About 3,300 lines of Kotlin with Jetpack Compose, MVVM, Room, Coroutines and Flow. Reminders with AlarmManager, PIN and biometric access, unit and instrumented tests, field test with 4 users aged 25 to 85.
 
----
-[![](https://visitcount.itsvg.in/api?id=Salvatore-LaRosa&icon=0&color=6)](https://visitcount.itsvg.in)
+**[ENMA](https://github.com/Salvatore-LaRosa/ENMA)**: iOS and Android expense-management app in React Native (internship at Sirius s.r.l.).
+Company login, biometric authentication with PIN, receipt capture from camera or gallery, dark mode, Italian/English UI. Designed in Figma, documented with Docusaurus.
+
+Earlier work: online tutoring booking portal, Java Servlet, Vue.js, MySQL ([web](https://github.com/Salvatore-LaRosa/Progetto-IUM_Tweb-Web) · [Flutter client](https://github.com/Salvatore-LaRosa/Progetto-IUM-TWeb-Flutter-)).
+
+## Tech stack
+
+| Area | Core skills |
+| --- | --- |
+| Backend | Java, Spring Boot, Spring Data JPA, Python, Node.js, REST APIs, OAuth 2.0 / JWT, microservices |
+| Database | SQL, PostgreSQL, MySQL, Prisma, data modeling and ER schemas |
+| Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS |
+| Mobile | Kotlin, Jetpack Compose, Room, Coroutines and Flow, MVVM, React Native |
+| Testing | JUnit, Mockito, unit and instrumented tests (Android) |
+| Tools | Docker, Git, GitHub, Linux, Gradle, Figma |
+
+Basic knowledge: PHP, C, Dart / Flutter, Vue.js, Java Servlet, Kubernetes (Minikube).
+
+## Get in touch
+
+- Email: [salvatorelarosa.business@gmail.com](mailto:salvatorelarosa.business@gmail.com)
+- LinkedIn: [linkedin.com/in/larosa-salvatore](https://linkedin.com/in/larosa-salvatore)
+- Languages: Italian (native), English (B2)
